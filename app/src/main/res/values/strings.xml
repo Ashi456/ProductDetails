@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProductDetails</string>
+    <string name="view_color_options">View Color Options</string>
+    <string name="color">Color</string>
+    <string name="size">Size</string>
+    <string name="price">Price</string>
+    <string name="msg">No Products Available</string>
+    <string name="viewed_products">Most Viewed Products</string>
+    <string name="ordered_products">Most Ordered Products</string>
+    <string name="shared_products">Most Shared Products</string>
+    <string name="view_product_rankings">View Product Rankings</string>
+    <string name="viewed_count">Viewed Count : </string>
+    <string name="shared_count">Shared Count : </string>
+    <string name="ordered_count">Ordered Count : </string>
+    <string name="loading">Loading...</string>
+</resources>
